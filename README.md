@@ -5,6 +5,10 @@ Controling the volume virtually just by using your two finger tips, with the hel
 ## MediaPipe
 MediaPipe is a framework for building multimodal (eg. video, audio, any time series data), cross platform (i.e Android, iOS, web, edge devices) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
 
+## Landmarks
 <p align = 'center' height ='500px' weidth ='200'>
 <img src ='https://user-images.githubusercontent.com/57028410/136582102-c3cc9a62-ebe1-4101-8d41-a1a61f30795d.png'>
 </p>
+
+## Live Demo
+
