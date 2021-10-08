@@ -12,4 +12,4 @@ MediaPipe is a framework for building multimodal (eg. video, audio, any time ser
 
 ## Live Demo
 
-![]()
+![](https://github.com/Abhishekkakati101/Volume-Control/blob/main/Demo/VolumeControlDemo.gif)
